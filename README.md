@@ -1,12 +1,17 @@
-# Aplikasi Laundry oleh Abdul Manap
+# Aplikasi Laundry Sederhana oleh Abdul Manap
 
+App ini cocok untuk siapa? cocok untuk sebagai orang yang ingin latihan dengan bahasa golang, untuk tugas sekolah maupun kuliah yang menggunakan bahasa golang. App ini sangat simple karena hanya dijalankan di console, dan sebagai persiapan untuk yang ingin memulai backend introduction, karena membuat app dengan database yang dijalankan di console adalah tugas pertama dalam belajar menjadi backend dev >_<>
+
+## Persiapan
+1.  Instal terlebih dahulu go nya di go.dev agar bisa run bahasa golang
+2.  Instal postgreSQL jika belum punya
+3.  Text Editor: VSCode
 
 
 ## Instalasi 
 1.   Git clone:  git clone https://github.com/abdlmnf17/go-laundry.git
-
 2.   Buat database di PG Admin dengan nama "db-laundry", lalu copy paste dan jalankan kueri tool untuk kode SQL di file DDL dan DML 
-3.   Atur password database dan lain lain di file main.go lalu buka terminal dan jalankan.
+3.   Atur password database dan lain lain di file main.go lalu buka terminal dan jalankan:  go run main.go
 
 ## Penggunaan
 1.   Ada 3 menu utama, yaitu Menu Master Pelanggan, Master Layanan, dan Transaksi
@@ -27,4 +32,4 @@
 
 
 ## Akhir Kata
-Mohon maaf jika masih banyak kekurangan dan hasil kodinganya belum di optimasi sebaik mungkin. Akhir kata, Terima Kasih.
+Mungkin hanya itu saja, Mohon maaf jika masih banyak kekurangan dan hasil kodinganya belum di optimasi sebaik mungkin. Jangan lupa jika aku akan bagi-bagi projek open-source lainnya di hari-hari lain, Akhir kata, Terima Kasih _>.
