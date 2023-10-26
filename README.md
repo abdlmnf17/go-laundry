@@ -3,7 +3,8 @@
 
 
 ## Instalasi 
-1.   Git clone https://git.enigmacamp.com/enigma-20/abdul-manap/challenge-godb.git
+1.   Git clone:  git clone https://github.com/abdlmnf17/go-laundry.git
+
 2.   Buat database di PG Admin dengan nama "db-laundry", lalu copy paste dan jalankan kueri tool untuk kode SQL di file DDL dan DML 
 3.   Atur password database dan lain lain di file main.go lalu buka terminal dan jalankan.
 
