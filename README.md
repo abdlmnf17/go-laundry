@@ -23,7 +23,7 @@
 
 9. Untuk menghapus data-data transaksi hanya bisa dilakukan di menu pelanggan. Dengan menghapus pelanggan sesuai ID, maka transaksinya akan ikut terhapus. 
 
-10. Disetiap masing-masing menu juga sudah ada jump navigation, agar lebih cepat dalam memilih menu maupun keluar manu.  
+10. Setiap masing-masing menu juga sudah ada jump navigation, agar lebih cepat dalam memilih menu maupun keluar manu.  
 
 
 ## Akhir Kata
